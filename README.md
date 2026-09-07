@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/phambaoviet/dsa-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/phambaoviet/dsa-practice/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/phambaoviet/dsa-practice/tree/master/0283-move-zeroes) |
+| [0643-maximum-average-subarray-i](https://github.com/phambaoviet/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 | [0941-valid-mountain-array](https://github.com/phambaoviet/dsa-practice/tree/master/0941-valid-mountain-array) |
 ## Hash Table
 |  |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/phambaoviet/dsa-practice/tree/master/0238-product-of-array-except-self) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/phambaoviet/dsa-practice/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
