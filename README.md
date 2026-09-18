@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/phambaoviet/dsa-practice/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/phambaoviet/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/phambaoviet/dsa-practice/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/phambaoviet/dsa-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/phambaoviet/dsa-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/phambaoviet/dsa-practice/tree/master/0242-valid-anagram) |
 ## Greedy
 |  |
 | ------- |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/phambaoviet/dsa-practice/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/phambaoviet/dsa-practice/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
